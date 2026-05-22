@@ -1,0 +1,261 @@
+﻿nama_wisata;class_name;image_path;width;height;min_side;split
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_001.jpg;275;183;183;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_018.jpg;261;193;193;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_016.jpg;275;183;183;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_002.jpg;267;189;189;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_009.jpg;512;307;307;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_006.jpg;1052;728;728;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_012.jpg;269;187;187;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_004.jpg;278;181;181;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_019.jpg;275;183;183;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_017.jpg;300;168;168;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_014.jpg;300;168;168;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_003.jpg;756;1008;756;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_010.jpg;600;338;338;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_020.jpg;550;309;309;train
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_005.jpg;610;409;409;valid
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_013.jpg;1200;674;674;valid
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_008.jpg;800;445;445;valid
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_011.jpg;770;435;435;valid
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_015.jpg;275;183;183;test
+Alun-Alun Bandung;alun_alun_bandung;furap_image_dataset/alun_alun_bandung/alun_alun_bandung_007.jpg;1200;675;675;test
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_001.jpg;720;540;540;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_018.jpg;550;413;413;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_016.jpg;310;163;163;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_002.jpg;700;394;394;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_009.jpg;900;500;500;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_006.jpg;750;500;500;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_012.jpg;1200;676;676;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_004.jpg;900;500;500;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_019.jpg;750;469;469;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_017.jpg;647;451;451;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_014.jpg;550;411;411;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_003.jpg;550;413;413;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_010.jpg;275;183;183;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_020.jpg;750;469;469;train
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_005.jpg;300;168;168;valid
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_013.jpg;225;225;225;valid
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_008.jpg;1300;953;953;valid
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_011.jpg;2880;1800;1800;valid
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_015.jpg;377;134;134;test
+Bandung Indah Plaza;bandung_indah_plaza;furap_image_dataset/bandung_indah_plaza/bandung_indah_plaza_007.jpg;259;194;194;test
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_001.jpg;1080;1350;1080;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_018.jpg;201;251;201;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_016.jpg;480;360;360;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_002.jpg;260;194;194;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_009.jpg;750;500;500;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_006.jpg;300;168;168;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_012.jpg;201;251;201;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_004.jpg;259;194;194;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_019.jpg;275;183;183;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_017.jpg;201;251;201;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_014.jpg;645;402;402;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_003.jpg;1200;675;675;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_010.jpg;700;525;525;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_020.jpg;275;183;183;train
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_005.jpg;240;210;210;valid
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_013.jpg;275;183;183;valid
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_008.jpg;225;225;225;valid
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_011.jpg;1200;900;900;valid
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_015.jpg;500;500;500;test
+Gunung Manglayang;gunung_manglayang;furap_image_dataset/gunung_manglayang/gunung_manglayang_007.jpg;645;365;365;test
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_001.jpg;1600;1200;1200;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_018.jpg;201;251;201;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_016.jpg;69;46;46;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_002.jpg;663;382;382;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_009.jpg;1024;546;546;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_006.jpg;766;400;400;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_012.jpg;259;194;194;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_004.jpg;201;251;201;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_019.jpg;311;162;162;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_017.jpg;250;202;202;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_014.jpg;2000;1125;1125;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_003.jpg;1024;577;577;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_010.jpg;640;480;480;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_020.jpg;300;168;168;train
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_005.jpg;600;338;338;valid
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_013.jpg;259;194;194;valid
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_008.jpg;640;480;480;valid
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_011.jpg;650;432;432;valid
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_015.jpg;1200;800;800;test
+Gunung Patuha;gunung_patuha;furap_image_dataset/gunung_patuha/gunung_patuha_007.jpg;640;480;480;test
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_001.jpg;256;197;197;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_018.jpg;293;172;172;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_016.jpg;300;168;168;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_002.jpg;300;168;168;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_009.jpg;830;465;465;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_006.jpg;720;479;479;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_012.jpg;275;183;183;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_004.jpg;1200;675;675;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_019.jpg;310;162;162;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_017.jpg;275;183;183;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_014.jpg;300;168;168;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_003.jpg;550;366;366;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_010.jpg;300;450;300;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_020.jpg;275;183;183;train
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_005.jpg;1200;1600;1200;valid
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_013.jpg;1908;1080;1080;valid
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_008.jpg;2046;1228;1228;valid
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_011.jpg;750;500;500;valid
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_015.jpg;300;168;168;test
+Jalan Braga Bandung;jalan_braga_bandung;furap_image_dataset/jalan_braga_bandung/jalan_braga_bandung_007.jpg;275;183;183;test
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_001.jpg;700;394;394;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_018.jpg;231;218;218;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_016.jpg;188;268;188;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_002.jpg;290;174;174;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_009.jpg;450;300;300;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_006.jpg;480;320;320;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_012.jpg;46;66;46;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_004.jpg;450;300;300;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_019.jpg;299;168;168;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_017.jpg;300;168;168;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_014.jpg;275;183;183;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_003.jpg;1200;800;800;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_010.jpg;1200;675;675;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_020.jpg;259;194;194;train
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_005.jpg;1200;800;800;valid
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_013.jpg;168;300;168;valid
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_008.jpg;225;225;225;valid
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_011.jpg;1204;1423;1204;valid
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_015.jpg;259;194;194;test
+Kawah Kamojang;kawah_kamojang;furap_image_dataset/kawah_kamojang/kawah_kamojang_007.jpg;700;525;525;test
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_001.jpg;268;188;188;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_018.jpg;275;183;183;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_016.jpg;300;168;168;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_002.jpg;800;500;500;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_009.jpg;1152;864;864;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_006.jpg;700;500;500;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_012.jpg;259;194;194;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_004.jpg;650;366;366;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_019.jpg;259;194;194;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_017.jpg;82;46;46;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_014.jpg;275;183;183;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_003.jpg;1360;1020;1020;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_010.jpg;400;300;300;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_020.jpg;259;194;194;train
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_005.jpg;300;168;168;valid
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_013.jpg;275;183;183;valid
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_008.jpg;1296;864;864;valid
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_011.jpg;259;194;194;valid
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_015.jpg;300;168;168;test
+Kebun Binatang Bandung;kebun_binatang_bandung;furap_image_dataset/kebun_binatang_bandung/kebun_binatang_bandung_007.jpg;1056;1280;1056;test
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_001.jpg;275;183;183;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_018.jpg;278;181;181;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_016.jpg;282;179;179;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_002.jpg;225;225;225;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_009.jpg;286;176;176;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_006.jpg;275;183;183;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_012.jpg;270;187;187;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_004.jpg;268;188;188;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_019.jpg;275;183;183;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_017.jpg;259;194;194;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_014.jpg;275;183;183;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_003.jpg;800;500;500;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_010.jpg;720;405;405;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_020.jpg;311;162;162;train
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_005.jpg;259;194;194;valid
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_013.jpg;1280;720;720;valid
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_008.jpg;300;168;168;valid
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_011.jpg;667;403;403;valid
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_015.jpg;275;183;183;test
+Masjid Raya Bandung;masjid_raya_bandung;furap_image_dataset/masjid_raya_bandung/masjid_raya_bandung_007.jpg;1200;675;675;test
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_001.jpg;300;168;168;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_018.jpg;288;175;175;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_016.jpg;275;183;183;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_002.jpg;1000;667;667;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_009.jpg;259;194;194;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_006.jpg;1200;800;800;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_012.jpg;266;190;190;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_004.jpg;294;172;172;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_019.jpg;290;174;174;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_017.jpg;259;194;194;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_014.jpg;299;168;168;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_003.jpg;720;479;479;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_010.jpg;720;720;720;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_020.jpg;366;500;366;train
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_005.jpg;736;981;736;valid
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_013.jpg;1200;675;675;valid
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_008.jpg;700;300;300;valid
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_011.jpg;400;266;266;valid
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_015.jpg;300;168;168;test
+Museum Geologi Bandung;museum_geologi_bandung;furap_image_dataset/museum_geologi_bandung/museum_geologi_bandung_007.jpg;275;183;183;test
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_001.jpg;275;183;183;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_018.jpg;300;168;168;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_016.jpg;299;168;168;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_002.jpg;300;168;168;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_009.jpg;251;450;251;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_006.jpg;269;187;187;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_012.jpg;331;152;152;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_004.jpg;251;201;201;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_019.jpg;275;183;183;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_017.jpg;258;195;195;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_014.jpg;275;183;183;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_003.jpg;730;487;487;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_010.jpg;1280;960;960;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_020.jpg;276;183;183;train
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_005.jpg;275;183;183;valid
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_013.jpg;640;427;427;valid
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_008.jpg;960;720;720;valid
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_011.jpg;736;513;513;valid
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_015.jpg;276;183;183;test
+Museum Konferensi Asia Afrika;museum_konferensi_asia_afrika;furap_image_dataset/museum_konferensi_asia_afrika/museum_konferensi_asia_afrika_007.jpg;1000;667;667;test
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_001.jpg;293;172;172;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_018.jpg;299;168;168;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_016.jpg;299;168;168;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_002.jpg;276;183;183;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_009.jpg;1024;783;783;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_006.jpg;600;450;450;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_012.jpg;334;151;151;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_004.jpg;1200;800;800;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_019.jpg;259;194;194;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_017.jpg;253;199;199;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_014.jpg;225;225;225;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_003.jpg;1024;763;763;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_010.jpg;1080;715;715;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_020.jpg;225;225;225;train
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_005.jpg;275;183;183;valid
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_013.jpg;270;187;187;valid
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_008.jpg;1632;1080;1080;valid
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_011.jpg;1024;683;683;valid
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_015.jpg;300;168;168;test
+Situ Cileunca;situ_cileunca;furap_image_dataset/situ_cileunca/situ_cileunca_007.jpg;735;537;537;test
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_001.jpg;1200;900;900;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_018.jpg;201;251;201;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_016.jpg;299;168;168;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_002.jpg;550;367;367;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_009.jpg;183;275;183;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_006.jpg;1054;593;593;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_012.jpg;77;46;46;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_004.jpg;259;194;194;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_019.jpg;259;194;194;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_017.jpg;260;194;194;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_014.jpg;301;167;167;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_003.jpg;550;309;309;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_010.jpg;1200;674;674;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_020.jpg;259;194;194;train
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_005.jpg;1280;960;960;valid
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_013.jpg;300;168;168;valid
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_008.jpg;900;500;500;valid
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_011.jpg;61;46;46;valid
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_015.jpg;284;177;177;test
+Sudirman Street Bandung;sudirman_street_bandung;furap_image_dataset/sudirman_street_bandung/sudirman_street_bandung_007.jpg;1024;576;576;test
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_001.jpg;299;169;169;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_018.jpg;760;453;453;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_016.jpg;1024;768;768;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_002.jpg;1280;720;720;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_009.jpg;600;458;458;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_006.jpg;259;194;194;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_012.jpg;450;300;300;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_004.jpg;520;693;520;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_019.jpg;1280;853;853;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_017.jpg;550;413;413;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_014.jpg;350;350;350;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_003.jpg;750;426;426;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_010.jpg;168;300;168;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_020.jpg;600;400;400;train
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_005.jpg;1024;683;683;valid
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_013.jpg;400;225;225;valid
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_008.jpg;1295;863;863;valid
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_011.jpg;720;588;588;valid
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_015.jpg;194;259;194;test
+Trans Studio Bandung;trans_studio_bandung;furap_image_dataset/trans_studio_bandung/trans_studio_bandung_007.jpg;550;440;440;test
